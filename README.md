@@ -2,11 +2,11 @@
 As part of this Repository we are going  to build Basic spring with microservices app with Basic Operations
 
 # Used Below Frameworks 
-java 1.8
-Springboot
-Microservices
-Maven
-Jenkins
-Eureka
-Git  and GitHub
+1. java 1.8
+2. Springboot
+3. Microservices
+4. Maven
+5. Jenkins
+6. Eureka
+7. Git  and GitHub
 
